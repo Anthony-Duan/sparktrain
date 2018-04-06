@@ -1,7 +1,7 @@
 package com.anthony.kafka;
 
 /**
- * @ Description:
+ * @ Description: Kafka配置信息
  * @ Date: Created in 08:52 2018/4/1
  * @ Author: Anthony_Duan
  */

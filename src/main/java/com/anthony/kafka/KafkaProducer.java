@@ -7,7 +7,7 @@ import kafka.producer.ProducerConfig;
 import java.util.Properties;
 
 /**
- * @ Description:
+ * @ Description: KafkaProducer 实现
  * @ Date: Created in 08:54 2018/4/1
  * @ Author: Anthony_Duan
  */
